@@ -1,0 +1,16 @@
+{
+  "name": "theatrelogue",
+  "version": "1.0.0",
+  "description": "A catalogue of every single musical I know with almost everything you'd need to know about each.",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.5",
+    "tailwindcss": "^4.3.5"
+  }
+}
