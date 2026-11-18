@@ -15,7 +15,7 @@ A website catalogue of almost every popular Broadway musical with almost all rel
 - Each musical has a playlist with all its complete and official released songs, which can be played by the user.
 
 ## How to Run
-1. Go to [this link](https://theatrelogue.netlify.app/), no need to install anything on your device.
+1. Go to [this link](https://jhazmineaudrey.github.io/Theatrelogue/), no need to install anything on your device.
 2. Browse around the website to view all the added Broadway musicals and their relevant information.
 
 **If you would like to use the source code:**
